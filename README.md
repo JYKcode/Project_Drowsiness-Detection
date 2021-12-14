@@ -1,4 +1,4 @@
-# Project : Drowsiness-Detection
+# Project : Drowsiness Detection & Emotion Classification
 ___
 ### 📣 개발 목적
 - 교통사고의 대부분인 졸음운전을 예방
