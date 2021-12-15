@@ -66,8 +66,14 @@ ___
 - crop_images.ipynb : 주어진 이미지들을 crop
 - improve_images.ipynb : Histogram normalization, Blurring을 통한 이미지 성능 향상
 
-### Improvements
+### Development
 ---
+- Image : Histogram normalization, Blurring이 아닌 Image sharpning 등의 다른 기법을 적용시켜 Dataset 자체의 성능을 향상
+- Model : 실시간에 적용시킬 수 있는 다른 모델들을 사용해보지 못했다. 현재 실시간으로 사용될 만큼의 FPS가 나오지 않기 때문에 새로운 모델의 적용을 통해 지속적으로 FPS를 향상
+- Effects : 졸음과 감정분석을 통한 추천시스템 구축과 행동 분석을 통한 복합적인 분석
+
+
+
 
 
 
